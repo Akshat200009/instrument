@@ -1,0 +1,57 @@
+body {
+  padding: 50px;
+  font-style: italic;
+  background-attachment: fixed;
+  background-image:url(../images/au.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#logo
+{
+    height:100px;
+    width:100px;
+    border-radius:900px;
+    
+}
+
+.heading
+{
+   color: white;
+   font-size: 1.3rem;
+   cursor: pointer;
+}
+.heading2
+{
+   color: white;
+}
+
+.card
+{
+  transition:all 1s;
+}
+
+.card:hover
+{
+   transform:scale(1.1);
+   cursor: pointer;
+}
+
+.svglogo
+{
+  height: 50px;
+  margin: 5px;
+}
+
+.socialmedia
+{
+    display: inline-flex;
+  
+      
+}
+
+
